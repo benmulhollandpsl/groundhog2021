@@ -69,11 +69,11 @@ html {
   
 /* moved from in html  */
   h1 {
-    color: red;
+    color: brown;
     margin-bottom: 15px;
     font-size: 50px;
-    background-color: yellowgreen;
-    text-shadow: 10 10 1 yellow;
+    background-color: none;
+    text-shadow: 10 10 1 green;
 
 }
 h2 {
@@ -122,4 +122,4 @@ img {
     display: flex;
     float: right
 
-  }
+  }cd
