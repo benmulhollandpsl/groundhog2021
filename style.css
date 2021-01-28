@@ -32,11 +32,16 @@ html {
   
   a {
     text-decoration: none;
-    color: black;
+    color: rgb(236, 245, 244);
     background: rgba(0,0,0,0.05);
     border-radius: 20px;
   }
   
+  small {
+    color:aliceblue;
+  }
+
+
   .highlight {
     transition: all 0.2s;
     border-bottom: 2px solid white;
@@ -63,13 +68,13 @@ html {
     display: inline-block;
     padding: 5px;
     margin: 0 20px;
-    color: black;
+    color: rgb(224, 255, 251);
     font-family:'Courier New', Courier, monospace;
   }
   
 /* moved from in html  */
   h1 {
-    color: brown;
+    color: rgb(204, 77, 77);
     margin-bottom: 15px;
     font-size: 50px;
     background-color: none;
@@ -122,4 +127,4 @@ img {
     display: flex;
     float: right
 
-  }cd
+  }
