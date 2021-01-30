@@ -74,17 +74,19 @@ html {
   
 /* moved from in html  */
   h1 {
-    color: rgb(204, 77, 77);
+    color: rgb(200, 208, 80);
     margin-bottom: 15px;
     font-size: 50px;
     background-color: none;
-    text-shadow: 10 10 1 green;
-
+    text-shadow:  4px 12px 6px green;l
+    
 }
 h2 {
     margin-bottom: 15px;
     color: orange;
     text-align: center;
+    text-shadow:  4px 12px 2px green;l
+
     /* this is me walking my way back in time through what was covered in week one */
     }
 h3 {
