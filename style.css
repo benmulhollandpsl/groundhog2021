@@ -78,14 +78,14 @@ html {
     margin-bottom: 15px;
     font-size: 50px;
     background-color: none;
-    text-shadow:  4px 12px 6px green;l
-    
-}
+    text-shadow:  4px 12px 6px green;
+    }
+
 h2 {
     margin-bottom: 15px;
     color: orange;
     text-align: center;
-    text-shadow:  4px 12px 2px green;l
+    text-shadow:  4px 12px 2px green;
 
     /* this is me walking my way back in time through what was covered in week one */
     }
@@ -128,5 +128,11 @@ img {
     /* just to show padding */
     display: flex;
     float: right
+
+  }
+
+  canvas {
+    border: 5px solid whitesmoke;
+    border-radius: 11px;
 
   }
