@@ -134,5 +134,6 @@ img {
   canvas {
     border: 5px solid whitesmoke;
     border-radius: 11px;
-
+    width: 90%;
+    height: 90%;
   }
